@@ -68,8 +68,17 @@ $innerwidth : 1320px;
 .banner{
   position: relative;
   display: block;
+  height: 50px;
+  background-color: #ffcc00;
 
 }
+
+
+.banner-1{
+  background: url('../images/banner_pc_1')no-repeat center;
+  background-size: contain;
+}
+
 /*레이아웃*/
 .wrap{
   position: relative;
@@ -107,7 +116,7 @@ $innerwidth : 1320px;
 
   }
   .footer-bottom{
-    
+
   }
 
 }
